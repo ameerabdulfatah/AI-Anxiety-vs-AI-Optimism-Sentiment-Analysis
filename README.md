@@ -24,7 +24,7 @@ To explore how people perceive the impact of AI using real-world tweets, and ana
 ## 📂 Dataset
 
 - Data was collected using the Twitter API (search endpoint).
-- Keywords used: `"AI OR ChatGPT OR Gemini OR GenerativeAI) (fear OR excited OR anxiety OR future OR opportunity"`.
+- Keywords used: `"(AI OR ChatGPT OR Gemini OR GenerativeAI) (fear OR excited OR anxiety OR future OR opportunity)"`.
 - Tweets fetched: **75 English tweets** (due to API rate limits).
 - Stored as: `ai_sentiment_cleaned.csv`
 
