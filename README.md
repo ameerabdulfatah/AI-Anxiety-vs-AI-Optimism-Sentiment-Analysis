@@ -53,9 +53,13 @@ Most frequent two-word combinations (bigrams) from all tweets.
 
 ## 🔍 Insights
 
-- Many tweets about **AI Anxiety** expressed concern about jobs, surveillance, and safety.
-- Optimistic tweets focused on **innovation**, **efficiency**, and **healthcare improvements**.
-- Sentiment was **mixed**, with a slight lean toward optimism.
+-Majority of tweets leaned toward **AI optimism**, focusing on benefits in Web3, productivity, and finance.
+
+-A noticeable share reflected **AI anxiety**, especially around job loss, deepfakes, and ethical concerns.
+
+-**Optimistic tweets** were generally longer and more promotional; **anxious tweets** were shorter and cautionary.
+
+-The data reveals a strong **polarization** in public sentiment, with excitement and fear coexisting.
 
 ---
 
@@ -84,10 +88,11 @@ AI-Anxiety-vs-AI-Optimism-Sentiment-Analysis/
 ├── README.md
 ├── requirements.txt
 └── images/
-    ├── sentiment_chart.png
-    ├── wordcloud.png
-    ├── tweet_length.png
-    └── bigram_plot.png
+    ├── Distribution of Sentiments.png
+    ├── Word Cloud.png
+    ├── Word Count.png
+    ├── Tweet Length.png
+    └── Top Bigrams.png
 ```
 
 ---
