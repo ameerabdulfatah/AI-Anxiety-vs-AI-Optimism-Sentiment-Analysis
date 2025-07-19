@@ -109,9 +109,3 @@ AI-Anxiety-vs-AI-Optimism-Sentiment-Analysis/
 
 Thanks to Twitter API and the open-source Python ecosystem for enabling this project.
 
----
-
-## 📫 Contact
-
-Made by Ameer Abdul Fatah  
-[GitHub Profile](https://github.com/ameerabdulfatah)
