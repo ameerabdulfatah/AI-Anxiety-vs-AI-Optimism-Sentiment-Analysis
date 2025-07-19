@@ -61,7 +61,8 @@ Most frequent two-word combinations (bigrams) from all tweets.
 
 ## 📷 Sample Visuals
 
-![Word Cloud](images/Word_Cloud.png)
+![Word Cloud](images/Word Cloud.png)
+
 ![Bigram Plot](images/Top_Bigrams.png)
 
 > *(Images above are placeholders. Replace them with the actual exported chart images from your analysis.)*
